@@ -33,7 +33,7 @@ The first run is the first real compile of this code, so expect to fix errors fr
 
 ## Splash screen credit emoji
 Replace `app/src/main/res/drawable/vendetta_emoji.png` with your own emoji image (same file name, PNG, square, e.g. 128×128) **before building**.
-It is shown after "Created by Vendetta IRN from" at the bottom of the start screen. The file in the project is an empty transparent placeholder.
+It is shown after "Created by Siyavash from" at the bottom of the start screen. The file in the project is an empty transparent placeholder.
 
 ## Languages and fonts
 English is the default; Persian (فارسی) is built in. Switch in Settings → Language, or with the small language menu on the first-run screen.

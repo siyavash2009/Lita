@@ -63,7 +63,7 @@ fun SplashScreen(onShown: () -> Unit = {}) {
             Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(bottom = 28.dp).graphicsLayer { alpha = fade.value },
             verticalAlignment = Alignment.CenterVertically,
         ) {
-            Text("Created by Vendetta IRN from ", color = LitaTextMid, fontSize = 13.sp)
+            Text("Created by Siyavash from ", color = LitaTextMid, fontSize = 13.sp)
             Image(painterResource(R.drawable.vendetta_emoji), contentDescription = null, modifier = Modifier.size(18.dp))
         }
     }

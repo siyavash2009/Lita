@@ -202,7 +202,7 @@ fun SettingsScreen(vm: LitaViewModel) {
                 color = LitaTextMid, style = MaterialTheme.typography.bodySmall, modifier = Modifier.padding(16.dp),
             )
         }
-        item { Text("Created by Vendetta IRN", color = LitaTextMid, style = MaterialTheme.typography.bodySmall, modifier = Modifier.padding(horizontal = 16.dp)) }
+        item { Text("Created by Siyavash", color = LitaTextMid, style = MaterialTheme.typography.bodySmall, modifier = Modifier.padding(horizontal = 16.dp)) }
         item { Box(Modifier.height(24.dp)) }
     }
 
